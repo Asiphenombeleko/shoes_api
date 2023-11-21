@@ -11,7 +11,7 @@ CREATE TABLE shoes (
     stock_quantity INT NOT NULL,
     color VARCHAR(255) NOT NULL,
     price DECIMAL(8, 2) NOT NULL,
-    image_url VARCHAR(255);
+    image_url VARCHAR(255)
 
 );
 
@@ -97,6 +97,6 @@ VALUES
         275,
         5,
         3
-    ),
+    );
     
 

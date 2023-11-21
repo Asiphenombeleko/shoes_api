@@ -49,7 +49,7 @@ export default function shoeApi(service) {
   async function soldShoes(req, res) {
     const shoeId = req.params.id;
     
-      await shoe_service_instance.update_sold_shoes(shoeId);
+      await service.update_sold_shoes(shoeId);
       res.json({
         status: "success",
         message: "Shoe sold",
@@ -60,14 +60,15 @@ export default function shoeApi(service) {
   async function insert(req, res) {
     const { brand_name, shoe_size, stock_quantity, color, price, image_url } =
       req.body;
-   
-      const insertShoes = await shoe_service_instance.insert_shoes(
+   console.log(brand_name);
+      const insertShoes = await service.addNewShoe({
         brand_name,
         shoe_size,
         stock_quantity,
         color,
         price,
         image_url
+      }
       );
       res.status(201).json({
         status: "success",
