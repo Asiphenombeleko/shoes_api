@@ -1,0 +1,25 @@
+# Get all shoes
+GET http://localhost:3007/api/shoes
+
+# Get shoes by brand
+GET http://localhost:3007/api/shoes/brand/Louis%20Vuitton
+
+# Get shoes by size
+GET http://localhost:3007/api/shoes/size/7
+
+# Get shoes by brand and size
+GET http://localhost:3007/api/shoes/brand/Louis%20Vuitton/size/7
+
+
+# Insert shoes
+POST http://localhost:3007/api/shoes
+Content-Type: application/json
+{
+
+       "color" :'white',
+        "brand_name" : 'Nike',
+        "image_url" : 'https://thefoschini.vtexassets.com/arquivos/ids/94713643-1200-1200?v=638342972747600000&width=1200&height=1200&aspect=true',
+        "price" : 350,
+        "stock_quantity" : 10,
+        "shoe_size" : 5
+}
