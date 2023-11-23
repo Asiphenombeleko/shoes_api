@@ -21,7 +21,7 @@ VALUES
     (
         'Black',
         'Nike',
-        'https://thefoschini.vtexassets.com/arquivos/ids/94713643-1200-1200?v=638342972747600000&width=1200&height=1200&aspect=true',
+        'https://cdn.media.amplience.net/i/truworths/prod3106379_1?fmt=auto&w=291&h=291',
         350,
         9,
         5
@@ -29,7 +29,7 @@ VALUES
     (
         'White',
         'Nike',
-        'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/990b2e4a-5453-4961-8d5f-ee5bff3a73e8/force-1-le-younger-shoe-71jSwl.png',
+        'https://cdn.media.amplience.net/i/truworths/prod3142873_1?fmt=auto&w=291&h=291',
         350,
         9,
         5
@@ -37,63 +37,95 @@ VALUES
     (
         'Red ',
         'Nike',
-        'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/0f72dde6-ed46-4e8b-8e54-90a0fefee6ec/air-jordan-1-low-shoes-HQW5F3.png',
-        350,
+        'https://cdn.media.amplience.net/i/truworths/prod3113912_1?fmt=auto&w=291&h=291',
+        2500,
+        5,
+        5
+    ),
+     (
+        'Green ',
+        'Nike',
+        'https://cdn.media.amplience.net/i/truworths/prod3139111_1?fmt=auto&w=291&h=291',
+        2500,
         9,
+        6
+    ),
+    (
+        'Nude',
+        'New Balance',
+        'https://cdn.media.amplience.net/i/truworths/prod3117885_1?fmt=auto&w=291&h=291',
+        2200,
+        6,
         5
     ),
     (
-        'Green',
-        'Adidas',
-        'https://thefoschini.vtexassets.com/arquivos/ids/95264988-1200-1200?v=638344326062570000&width=1200&height=1200&aspect=true',
-        350,
-        8,
+        'Nude',
+        'New Balance',
+        'https://cdn.media.amplience.net/i/truworths/prod3143402_1?fmt=auto&w=291&h=291',
+        3200,
+        6,
         5
     ),
     (
-        'Green',
+        'White',
+        'New Balance',
+        'https://cdn.media.amplience.net/i/truworths/prod3117884_1?fmt=auto&w=291&h=291',
+        2200,
+        5,
+        7
+    ),
+    (
+        'White',
         'Adidas',
-        'https://thefoschini.vtexassets.com/arquivos/ids/95264988-1200-1200?v=638344326062570000&width=1200&height=1200&aspect=true',
-        350,
-        8,
+        'https://assets.adidas.com/images/w_450,f_auto,q_auto/e1fc6fb0d7c9411e8806acd3010488b6_9366/FY9042_00_plp_standard.jpg',
+        1200,
+        6,
         5
     ),
     (
-        'Green',
+        'Grey',
         'Adidas',
-        'https://thefoschini.vtexassets.com/arquivos/ids/95264988-1200-1200?v=638344326062570000&width=1200&height=1200&aspect=true',
-        350,
-        8,
-        5
+        'https://assets.adidas.com/images/w_940,f_auto,q_auto/fa2487dc7b6047089e36af5c00bb966b_9366/HP5969_01_standard.jpg',
+        1700,
+        6,
+        10
+    ),
+     (
+        'Nude',
+        'Adidas',
+        'https://thefoschini.vtexassets.com/arquivos/ids/99317194-1200-1200?v=638357971947930000&width=1200&height=1200&aspect=true',
+        1600,
+        5,
+        10
     ),
     (
         'Black',
         'Stevemadden',
-        'https://stevemadden.co.za/cdn/shop/products/STEVEMADDEN-SHOES_POSSESSION_BLACK-1_grande.jpg?v=1683808967',
-        275,
+        'https://stevemadden.co.za/cdn/shop/products/STEVEMADDEN-DRESS_ZELLE_BLACK-MULTI_grande.jpg?v=1684023165',
+        1700,
         5,
         3
     ),
     (
         'Nude',
         'Stevemadden',
-        'https://stevemadden.co.za/cdn/shop/files/STEVEMADDEN-SHOES_POSSESSION-R_NUDE_grande.jpg?v=1686661832',
-        275,
+        'https://stevemadden.co.za/cdn/shop/products/STEVEMADDEN-SHOES_BRESLIN_BLUSH_grande.jpg?v=1681292970',
+        1600,
         5,
-        3
+        7
+    ),
+    (
+        'Nude',
+        'Stevemadden',
+        'https://stevemadden.co.za/cdn/shop/files/STEVEMADDEN-INTL_RIVERSTON_ROSEGOLD_grande.jpg?v=1689157128',
+        1800,
+        6,
+        10
     ),
     (
         'Black',
         'Stevemadden',
-        'https://stevemadden.co.za/cdn/shop/files/STEVEMADDEN-SHOES_SLINKY-30_BLACK_grande.jpg?v=1696267463',
-        275,
-        5,
-        3
-    ),
-    (
-        'Black',
-        'Stevemadden',
-        'https://stevemadden.co.za/cdn/shop/products/STEVEMADDEN-DRESS_ZELLE_BLACK-MULTI_grande.jpg?v=1684023165',
+        'https://stevemadden.co.za/cdn/shop/files/STEVEMADDEN-INTL_RIVERSTON_BLACKCRYSTAL_grande.jpg?v=1689157144',
         275,
         5,
         3
